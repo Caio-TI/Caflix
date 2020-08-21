@@ -13,7 +13,8 @@ function App() {
         <BannerMain 
           videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
           url={dadosIniciais.categorias[0].videos[0].url}
-          videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript parte da rotina das desenvolvedoras e desnvovlvedores. Mas o que els fazem afinal? Descubra com a Vanessa!"}
+          videoDescription={"Quem é o tipo de profissional que vai sobreviver à Crise Econômica Pós-COVID-19 na nossa área de desenvolvimento de software? Como se faz pra ser tornar esse profissional?"}
+          // videoDescription={"Quem é o tipo de profissional que vai sobreviver à Crise Econômica Pós-COVID-19 na nossa área de desenvolvimento de software? Como se faz pra ser tornar esse profissional?"}
         />
 
         <Carousel

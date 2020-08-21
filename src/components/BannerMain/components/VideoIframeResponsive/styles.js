@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const VideoContainer = styled.div`
-  position: relative;
+  /* position: relative; */
   overflow: hidden;
   width: 100%;
   padding-top: 56.25%;

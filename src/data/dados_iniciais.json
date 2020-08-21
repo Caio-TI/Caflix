@@ -10,37 +10,33 @@
       },
       "videos": [
         {
+          "titulo": "Guia DEFINITIVO de Aprendendo a Aprender | A maior BRONCA da sua vida [RATED R]",
+          "url": "https://www.youtube.com/watch?v=oUPaJxk6TZ0"
+        },
+        {
           "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+         "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
           "titulo": "SEO com React",
           "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+          "url": "https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&t=554s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Angular 9 - Curso Grátis - Backend & Visão Geral do Angular [2020]",
+          "url": "https://www.youtube.com/watch?v=NCrWXZtlc7Q&list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Iniciando com React Native em 2019 | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA"
         },
         {
           "titulo": "Novidades do Angular v9",
           "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }   
       ]
     },
     {
@@ -108,16 +104,16 @@
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O Milagre da Cela 7",
+          "url": "https://www.youtube.com/watch?v=poIZI96SxRs"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Até O Último Homem (Dublado)",
+          "url": "https://www.youtube.com/watch?v=JdoXJug7euE"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "O poço: Filme da Netflix Dublado em português Lançamento 2020",
+          "url": "https://www.youtube.com/watch?v=1oyE8GhbOmM"
         }
       ]
     },
@@ -160,24 +156,20 @@
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Programadores Aprendendo do Zero",
+          "url": "https://www.youtube.com/watch?v=82rPCNtEFUs&t=20s"
+        },     
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE&t=1s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "O Guia DEFINITIVO de UBUNTU para Devs Iniciantes",
+          "url": "https://www.youtube.com/watch?v=epiyExCyb2s"
         },
         {
           "titulo": "Frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
