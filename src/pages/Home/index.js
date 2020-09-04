@@ -13,7 +13,7 @@ function Home() {
         <BannerMain 
           videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
           url={dadosIniciais.categorias[0].videos[0].url}
-          videoDescription={"Quem é o tipo de profissional que vai sobreviver à Crise Econômica Pós-COVID-19 na nossa área de desenvolvimento de software? Como se faz pra ser tornar esse profissional?"}
+          // videoDescription={"Quem é o tipo de profissional que vai sobreviver à Crise Econômica Pós-COVID-19 na nossa área de desenvolvimento de software? Como se faz pra ser tornar esse profissional?"}
           // videoDescription={"Quem é o tipo de profissional que vai sobreviver à Crise Econômica Pós-COVID-19 na nossa área de desenvolvimento de software? Como se faz pra ser tornar esse profissional?"}
         />
 
